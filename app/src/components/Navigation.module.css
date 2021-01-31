@@ -1,0 +1,21 @@
+.menu {
+  display: flex;
+  height: 64px;
+  justify-content: flex-end;
+}
+.menu li:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+@media screen and (max-width: 768px) {
+  .menu {
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #e0e0e0;
+    justify-content: center;
+
+  }
+}
