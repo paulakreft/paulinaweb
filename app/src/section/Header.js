@@ -11,9 +11,10 @@ const Header = () => {
             <Navigation></Navigation>
             <div className={styles.wrapper}>
                 <div className={styles.text}>
-                    Standardowy blok Lorem Ipsum, używany od XV wieku, jest odtworzony niżej dla zainteresowanych. Fragmenty 1.10.32 i 1.10.33 z „de Finibus Bonorum et Malorum” Cycerona, są odtworzone w dokładnej, oryginalnej formie, wraz z angielskimi tłumaczeniami H. Rackhama z 1914 roku.
-            </div>
-                <MainButton title="Paulina"></MainButton>
+                    I am a front end developrt and designer, specialising in brochure 
+                    website for small businesses. I create assesible and search engine friendly solutions to be viwed on any screen size. 
+                </div>
+                <MainButton title="Contact me"></MainButton>
             </div>
         </Container>
     )

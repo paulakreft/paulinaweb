@@ -1,21 +1,30 @@
 .menu {
   display: flex;
   height: 64px;
-  justify-content: flex-end;
+  margin: 8px;
+  justify-content: space-between;
+  align-items: center;
 }
-.menu li:hover {
+h1 {
+  text-transform: uppercase;
+}
+.menuWrapper {
+  display: flex;
+}
+
+.menuWrapper li:hover {
   background-color: #ddd;
   color: black;
 }
 
 @media screen and (max-width: 768px) {
-  .menu {
+  .menuWrapper {
     overflow: hidden;
     position: fixed;
     bottom: 0;
     width: 100%;
     background-color: #e0e0e0;
     justify-content: center;
-
+    height: 64px;
   }
 }
