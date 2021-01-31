@@ -17,7 +17,7 @@ h1 {
   color: black;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
   .menuWrapper {
     overflow: hidden;
     position: fixed;
