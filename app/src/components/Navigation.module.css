@@ -12,11 +12,6 @@ h1 {
   display: flex;
 }
 
-.menuWrapper li:hover {
-  background-color: #ddd;
-  color: black;
-}
-
 @media screen and (max-width: 600px) {
   .menuWrapper {
     overflow: hidden;

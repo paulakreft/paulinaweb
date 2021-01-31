@@ -11,10 +11,10 @@ const Header = () => {
             <Navigation></Navigation>
             <div className={styles.wrapper}>
                 <div className={styles.text}>
-                    I am a front end developrt and designer, specialising in brochure 
+                    I am a front end developer, specialising in brochure 
                     website for small businesses. I create assesible and search engine friendly solutions to be viwed on any screen size. 
                 </div>
-                <MainButton title="Contact me"></MainButton>
+                <MainButton mail='kreftpaulinaa@gmail.com' title="Contact me"></MainButton>
             </div>
         </Container>
     )
