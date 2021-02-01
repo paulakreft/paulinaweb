@@ -8,6 +8,7 @@
 h1 {
   text-transform: uppercase;
   font-family: 'Yusei Magic', sans-serif;
+  letter-spacing: 2px;
 }
 
 p {
