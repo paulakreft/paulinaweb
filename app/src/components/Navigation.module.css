@@ -8,18 +8,24 @@
 h1 {
   text-transform: uppercase;
 }
+
+p {
+  font-size: 14px;
+}
 .menuWrapper {
   display: flex;
 }
-
+img {
+  height: 32px;
+}
 @media screen and (max-width: 600px) {
   .menuWrapper {
     overflow: hidden;
     position: fixed;
     bottom: 0;
     width: 100%;
-    background-color: #e0e0e0;
-    justify-content: center;
+    justify-content: space-evenly;
     height: 64px;
+    border-top: solid 1px black;
   }
 }

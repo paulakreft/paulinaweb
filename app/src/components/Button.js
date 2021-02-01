@@ -1,9 +1,15 @@
 import Button from '@material-ui/core/Button';
 
-const MainButton = ({ mail, title}) => {
+const MainButton = ({ email, title }) => {
+    const onClick = () => {
+        window.location.href = `mailto:${email}`;
+    }
     return (
-        <Button variant="contained" style={{'margin': "16px", 'backgroundColor': 'black', 'color':'white', 'fontWeight': '600',}}>
-            <a href={mail}>{title}</a>
+        <Button 
+            variant="contained" 
+            style={{ 'margin': "16px", 'backgroundColor': 'black', 'color': 'white', 'fontWeight': '600', }}
+            onClick={onClick}
+            >{title}
         </Button>
 
     )
