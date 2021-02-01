@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/paulinaweb/static/css/main.80195a24.chunk.css",
+    "main.js": "/paulinaweb/static/js/main.16f8f4a2.chunk.js",
+    "main.js.map": "/paulinaweb/static/js/main.16f8f4a2.chunk.js.map",
+    "runtime-main.js": "/paulinaweb/static/js/runtime-main.3ac9e1c9.js",
+    "runtime-main.js.map": "/paulinaweb/static/js/runtime-main.3ac9e1c9.js.map",
+    "static/js/2.6df80497.chunk.js": "/paulinaweb/static/js/2.6df80497.chunk.js",
+    "static/js/2.6df80497.chunk.js.map": "/paulinaweb/static/js/2.6df80497.chunk.js.map",
+    "static/js/3.ef849e91.chunk.js": "/paulinaweb/static/js/3.ef849e91.chunk.js",
+    "static/js/3.ef849e91.chunk.js.map": "/paulinaweb/static/js/3.ef849e91.chunk.js.map",
+    "index.html": "/paulinaweb/index.html",
+    "static/css/main.80195a24.chunk.css.map": "/paulinaweb/static/css/main.80195a24.chunk.css.map",
+    "static/js/2.6df80497.chunk.js.LICENSE.txt": "/paulinaweb/static/js/2.6df80497.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/paulinaweb/static/media/background_blue.fd87afcf.jpg",
+    "static/media/github.e2f07326.svg": "/paulinaweb/static/media/github.e2f07326.svg",
+    "static/media/home.3ac01fe5.svg": "/paulinaweb/static/media/home.3ac01fe5.svg",
+    "static/media/linkedin.8fb0cfb6.svg": "/paulinaweb/static/media/linkedin.8fb0cfb6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ac9e1c9.js",
+    "static/js/2.6df80497.chunk.js",
+    "static/css/main.80195a24.chunk.css",
+    "static/js/main.16f8f4a2.chunk.js"
+  ]
+}
