@@ -10,7 +10,7 @@ const Navigation = () => {
   const items = [
     {
       id: 'home',
-      href: '/',
+      href: '/paulinaweb',
       icon: home
     },
     {
