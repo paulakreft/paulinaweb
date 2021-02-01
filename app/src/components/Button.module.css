@@ -1,0 +1,8 @@
+.button {
+    margin: 16px;
+    padding: 16px;
+    background-color: transparent;
+    border: 1px solid;
+    color: black;
+    font-weight: 500;
+}

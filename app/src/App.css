@@ -6,8 +6,8 @@
   font-size: 20px;
 }
 
-html {
-  background: url("./img/background.jpg") no-repeat left center fixed;
+body {
+  background: url("./img/background_blue.jpg") no-repeat bottom center fixed;
   background-size: cover;
   overflow: hidden;
 }

@@ -28,7 +28,7 @@ const Navigation = () => {
     <div className={styles.menu}>
       <div className={styles.contact}>
         <h1>Paulina Kreft</h1>
-        <p>kreftpaulinaa@gmail.com</p>
+        <p>front-end developer</p>
       </div>
       <ul className={styles.menuWrapper}>
         {items.map(item => (
