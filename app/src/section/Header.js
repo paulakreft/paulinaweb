@@ -1,13 +1,12 @@
 import React from 'react';
 import MainButton from '../components/Button';
-import Container from '@material-ui/core/Container';
 import Navigation from '../components/Navigation';
 import styles from './Header.module.css'
 
 
 const Header = () => {
     return (
-        <Container>
+        <>
             <Navigation></Navigation>
             <div className={styles.wrapper}>
                 <div className={styles.text}>
@@ -15,7 +14,7 @@ const Header = () => {
                 </div>
                 <MainButton mail='kreftpaulinaa@gmail.com' title="Contact me"></MainButton>
             </div>
-        </Container>
+        </>
     )
 }
 
